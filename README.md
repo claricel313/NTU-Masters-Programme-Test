@@ -1,4 +1,4 @@
-# NTU-Masters-Programme-Test-Answers
+# NTU Masters Programme Test Answers
 
 This repository contains 3 folders:<br>
 Question 1<br>
